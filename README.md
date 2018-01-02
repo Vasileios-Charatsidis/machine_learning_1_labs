@@ -13,12 +13,22 @@ Polynomial Regression, Tikhonov Regularization, k-fold cross validation, Bayesia
 
 - [Assignment and Solutions](lab1/lab01_KIANFAR_MIRONENCO.ipynb)
 
+<p align="center">
+  <img src="images/pol_regr.png" width="350" /><br />
+  <i>Polynomial Regression</i>
+</p>
+
 ### Lab 2 - Classification
 
 <p align="justify">
 Multi-class logistic regression with stochatic gradient descent, Multi-layer perceptrons, MAP optimization, </p>
 
 - [Assignment and Solutions](lab2/lab02_KIANFAR_MIRONENCO.ipynb)
+
+<p align="center">
+  <img src="images/mnist.png" width="350" /><br />
+  <i>MNIST Learned weights</i>
+</p>
 
 ### Lab 3 - Gaussian Process Regression
 <p align="justify">
@@ -27,6 +37,10 @@ Gaussian processes, sampling, predictive distribution, hyperparameter learning
 
 - [Assignment and Solutions](lab3/lab03_KIANFAR_MIRONENCO.ipynb)
 
+<p align="center">
+  <img src="images/gp.png" width="350" /><br />
+  <i>Gaussian Process Regression</i>
+</p>
 
 ## Testing
 Refer to each lab and run the iPython notebook as follows.
