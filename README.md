@@ -14,7 +14,7 @@ Polynomial Regression, Tikhonov Regularization, k-fold cross validation, Bayesia
 - [Assignment and Solutions](lab1/lab01_KIANFAR_MIRONENCO.ipynb)
 
 <p align="center">
-  <img src="images/pol_regr.png" width="350" /><br />
+  <img src="images/pol_regr.png" width="450" /><br />
   <i>Polynomial Regression</i>
 </p>
 
@@ -26,7 +26,7 @@ Multi-class logistic regression with stochatic gradient descent, Multi-layer per
 - [Assignment and Solutions](lab2/lab02_KIANFAR_MIRONENCO.ipynb)
 
 <p align="center">
-  <img src="images/mnist.png" width="350" /><br />
+  <img src="images/mnist.png" width="450" /><br />
   <i>MNIST Learned weights</i>
 </p>
 
@@ -38,7 +38,7 @@ Gaussian processes, sampling, predictive distribution, hyperparameter learning
 - [Assignment and Solutions](lab3/lab03_KIANFAR_MIRONENCO.ipynb)
 
 <p align="center">
-  <img src="images/gp.png" width="350" /><br />
+  <img src="images/gp.png" width="650" /><br />
   <i>Gaussian Process Regression</i>
 </p>
 
